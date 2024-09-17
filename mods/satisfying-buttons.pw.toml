@@ -1,0 +1,13 @@
+name = "Satisfying Buttons"
+filename = "satisfying_buttons-1.0.0-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aabc2610d1347782a11ced84ff949c7e10c840fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5094007
+project-id = 972696

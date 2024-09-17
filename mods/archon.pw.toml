@@ -1,0 +1,13 @@
+name = "Archon"
+filename = "archon-0.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32227ed824d004e32f92e072b536de42e8e90ff5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5210717
+project-id = 575339

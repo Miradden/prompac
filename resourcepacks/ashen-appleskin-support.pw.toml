@@ -1,0 +1,13 @@
+name = "Ashen + Appleskin Support"
+filename = "Ashen_Appleskin_Support_1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc22792daa007c20e64b5b7b71b8699b2c49655a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5690874
+project-id = 1096470

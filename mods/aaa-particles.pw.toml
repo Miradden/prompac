@@ -1,0 +1,13 @@
+name = "AAA Particles"
+filename = "aaa_particles-1.20.1-1.2.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d5cee0f6f21adea4d15d74d7f96a7622bb00db3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5713001
+project-id = 979809

@@ -1,0 +1,13 @@
+name = "Ashen + Better End Support"
+filename = "Ashen_Better_End_Support_1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc75c2f21e0c6f457ac97916b8e8d81efacde702"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5690770
+project-id = 1096438
